@@ -1,0 +1,67 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.page-wrap{
+  background-image: url('../assets/background.jpg');
+  background-size: 130%;
+  background-repeat: no-repeat;
+  padding: 0;
+}
+footer{
+  background-color: cornflowerblue;
+  height: 50px;
+  text-align: center;
+  border-radius: 5px;
+  padding-top: 15px;
+  color: white;
+}
+a{
+  color: white !important;
+  font-weight: bold;
+}
+.bold{
+  font-weight: bold;
+}
+#title{
+  background-color: cornflowerblue;
+  height: 90px;
+  border-radius: 5px;
+  color: white;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.icono{
+  display: block;
+  width: 120px;
+  margin-top: 15px;
+}
+
+#subtitle{
+  color: cornflowerblue;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.nombre_input{
+  display: block;
+  color: cornflowerblue;
+  font-weight: bold;
+}
+
+.input_place{
+  width: 290px;
+  border: 2px solid cornflowerblue;
+  height: 40px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+::-webkit-input-placeholder { color: #CCCCCC; } 
+
+:-moz-placeholder { /* Firefox 18- */ color: #CCCCCC; } 
+
+::-moz-placeholder { /* Firefox 19+ */ color: #CCCCCC; } 
+
+:-ms-input-placeholder { color: #CCCCCC; }
