@@ -1,7 +1,7 @@
 # taller-hub-providencia
 simulador de agendar horas médicas
 
-<a href="https://ibb.co/vwPz2m3"><img src="https://ibb.co/sQ9DQKN" alt="game-ready" border="0"></a>
+<a href="https://ibb.co/sQ9DQKN"><img src="https://i.ibb.co/92Hf2b1/intro-taller.png" alt="intro-taller" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>hd full facebook</a><br />
 
 Recursos del taller 
 
